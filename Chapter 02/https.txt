@@ -1,0 +1,5 @@
+Degubber
+
+Vs code
+
+Network tab - Https initilizer and other things
